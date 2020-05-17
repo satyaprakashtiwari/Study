@@ -1,0 +1,28 @@
+method overloading and overriding in framework
+xpath functions
+reports generation
+webdriver waits
+exceptions encountered while execution
+staleelementexception
+listeners
+
+test case on pen/ IP phone
+STLC phases
+priority and severity with eg
+entry and exit criteria
+diff b/w smoke, sanity, retest and regression
+test plan and test strategy
+risk based testing and analysis
+testing technique
+testing process
+when to go for regression
+phases of testing
+different xpath function
+
+issues while working in ie and edge
+things done to make script execution faster
+@factory annotation in testng
+issues while running selenium tests
+selenium script optimization
+how to reduce execution time in selenium script
+
